@@ -1,0 +1,32 @@
+div{
+    height: 50px;
+    width: 150px;
+    background-color: gray;
+    margin: 3px;
+    display: inline-flex;
+    position: fixed;
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: black;
+    margin: 3px;
+    display: inline-flex;
+    position: fixed;
+}
+
+
+
+
+.player1{
+    background-color: red
+}
+
+.player2{
+    background-color:blue
+}
+
+table{
+    border: 2px solid;
+    
+}

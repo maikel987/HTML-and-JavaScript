@@ -1,0 +1,81 @@
+﻿body {
+}
+
+div {
+    font-size: 15px;
+}
+
+.link {
+    margin: 5px;
+}
+
+
+
+.instruction {
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.inText {
+    margin-left: 5px;
+}
+
+.persoTitle {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+a:link {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+a:visited {
+    color: red;
+    text-decoration: underline;
+    cursor: auto;
+}
+
+li#instruction {
+    font-style: italic;
+    font-size: 16px;
+}
+
+#checkBox {
+    margin: 3px;
+    border: 2px solid red;
+    padding: 10px;
+    border-bottom-left-radius: 50px 20px;
+}
+
+.radio#value {
+    margin: 3px;
+    border: 2px solid orange;
+    padding: 10px;
+    border-bottom-left-radius: 50px 20px;
+}
+
+.radio#pick {
+    margin: 3px;
+    border: 2px solid yellow;
+    padding: 10px;
+    border-bottom-left-radius: 50px 20px;
+}
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}

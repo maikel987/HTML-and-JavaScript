@@ -1,0 +1,18 @@
+.block{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    margin: 5px;
+}
+
+.noSpace{
+    display: inline-flex
+}
+
+.o{
+    background-color: blue;
+}
+
+.x{
+    background-color: green;
+}
